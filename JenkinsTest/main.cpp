@@ -3,7 +3,7 @@
 int main()
 {
 	JenkinsCI jenkins;
-	jenkins.test()
+	jenkins.test();
 
 	return 0;
 }
