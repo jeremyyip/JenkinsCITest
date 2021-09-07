@@ -5,7 +5,7 @@ int main()
 	JenkinsCI jenkins;
 	jenkins.test();
 	int i = 0;
-	i++
+	i++;
 
 	return 0;
 }
